@@ -1,0 +1,188 @@
+[
+    {
+        "name": "Tiger Animation",
+        "frame": 0,
+        "svg": "TigerWave0",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 1.9,
+        "svg": "TigerWave0",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 2.0,
+        "svg": "TigerWave1",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 2.1,
+        "svg": "TigerWave0",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 3,
+        "svg": "TigerWave0",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 3.1,
+        "svg": "TigerWave1",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 3.2,
+        "svg": "TigerWave0",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 4.2,
+        "svg": "TigerWave2",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 4.3,
+        "svg": "TigerWave3",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 4.4,
+        "svg": "TigerWave4",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 4.5,
+        "svg": "TigerWave5",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 4.6,
+        "svg": "TigerWave6",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 4.7,
+        "svg": "TigerDuck",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 4.9,
+        "svg": "TigerDuckBlink",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 5,
+        "svg": "TigerDuck",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 5.3,
+        "svg": "TigerDuckBodyUp",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 5.5,
+        "svg": "TigerDuckBodyDown",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 5.8,
+        "svg": "TigerDuckBlink",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 5.9,
+        "svg": "TigerDuckBodyUp",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 6,
+        "svg": "TigerDuckBodyDown",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 6.2,
+        "svg": "TigerDuckBlinkBodyUp",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 6.5,
+        "svg": "TigerDuckBodyDown",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 6.8,
+        "svg": "TigerDuck",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 7,
+        "svg": "TigerDuckBlinkBodyUp",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 7.1,
+        "svg": "TigerJumpSmear",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 7.2,
+        "svg": "TigerJump",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 8.0,
+        "svg": "TigerFall2",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 12.8,
+        "svg": "TigerSplat",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 17.6,
+        "svg": "TigerDuckRig",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 18,
+        "svg": "TigerWalk",
+        "loop": false
+    },
+    {
+        "name": "Tiger Animation",
+        "frame": 19,
+        "svg": "TigerWave",
+        "loop": false
+    }
+]
