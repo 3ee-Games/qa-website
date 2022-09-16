@@ -1,0 +1,1 @@
+import{w as c}from"./index-1d7753ad.js";const n=(t,r)=>{const{subscribe:e,set:a}=c(r);return{subscribe:e,set:a,useLocalStorage:()=>{if(typeof localStorage!="undefined"){const o=localStorage.getItem(t);o&&a(JSON.parse(o)),e(s=>{localStorage.setItem(t,JSON.stringify(s))})}}}},l=n("threegames_account",[]);export{l as a};
