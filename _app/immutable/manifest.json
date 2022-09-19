@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-adc28419.js",
+    "file": "start-b2ab6015.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -58,7 +58,7 @@
       "_index-fc6d8b78.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-ac340eeb.css"
+      "assets/pages/__layout.svelte-313bbeb4.css"
     ],
     "assets": [
       "assets/fira-mono-cyrillic-ext-400-normal-3df7909e.woff2",
@@ -133,7 +133,7 @@
     ]
   },
   "src/routes/account/create/index.svelte": {
-    "file": "pages/account/create/index.svelte-e5d976c8.js",
+    "file": "pages/account/create/index.svelte-459b92f8.js",
     "src": "src/routes/account/create/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -146,7 +146,7 @@
       "_singletons-d1fb5791.js"
     ],
     "css": [
-      "assets/pages/account/create/index.svelte-a033b401.css"
+      "assets/pages/account/create/index.svelte-ed42fe0d.css"
     ]
   },
   "src/routes/account/index.svelte": {
@@ -166,7 +166,7 @@
     ]
   },
   "src/routes/account/login/index.svelte": {
-    "file": "pages/account/login/index.svelte-3fe43920.js",
+    "file": "pages/account/login/index.svelte-ded22915.js",
     "src": "src/routes/account/login/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -178,7 +178,7 @@
       "_singletons-d1fb5791.js"
     ],
     "css": [
-      "assets/pages/account/login/index.svelte-170d2993.css"
+      "assets/pages/account/login/index.svelte-a18703f1.css"
     ]
   },
   "src/routes/account/messages/index.svelte": {
@@ -380,7 +380,7 @@
     ]
   },
   "src/routes/games/index.svelte": {
-    "file": "pages/games/index.svelte-bffeca65.js",
+    "file": "pages/games/index.svelte-4cf7009e.js",
     "src": "src/routes/games/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -389,7 +389,7 @@
       "_svgMapper-a46838ca.js"
     ],
     "css": [
-      "assets/pages/games/index.svelte-f74b855a.css"
+      "assets/pages/games/index.svelte-ed5ba2e4.css"
     ]
   },
   "src/routes/games/palooza.md": {
