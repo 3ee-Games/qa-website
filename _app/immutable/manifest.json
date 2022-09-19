@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-12d77d9e.js",
+    "file": "start-d11ee1d2.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -362,7 +362,7 @@
     ]
   },
   "src/routes/games/cupids-balance.md": {
-    "file": "pages/games/cupids-balance.md-14fb1ae5.js",
+    "file": "pages/games/cupids-balance.md-6671ce03.js",
     "src": "src/routes/games/cupids-balance.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -371,7 +371,7 @@
     ]
   },
   "src/routes/games/flappy-jacob.md": {
-    "file": "pages/games/flappy-jacob.md-e4462d69.js",
+    "file": "pages/games/flappy-jacob.md-baae643b.js",
     "src": "src/routes/games/flappy-jacob.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -380,7 +380,7 @@
     ]
   },
   "src/routes/games/index.svelte": {
-    "file": "pages/games/index.svelte-0b2b5d70.js",
+    "file": "pages/games/index.svelte-6dae4e51.js",
     "src": "src/routes/games/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -389,11 +389,11 @@
       "_svgMapper-a46838ca.js"
     ],
     "css": [
-      "assets/pages/games/index.svelte-a5b5dc55.css"
+      "assets/pages/games/index.svelte-d7992823.css"
     ]
   },
   "src/routes/games/palooza.md": {
-    "file": "pages/games/palooza.md-25549ed5.js",
+    "file": "pages/games/palooza.md-fcd4c37b.js",
     "src": "src/routes/games/palooza.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -402,7 +402,7 @@
     ]
   },
   "src/routes/games/zultiki.md": {
-    "file": "pages/games/zultiki.md-7ba3c44a.js",
+    "file": "pages/games/zultiki.md-84ff2565.js",
     "src": "src/routes/games/zultiki.md",
     "isEntry": true,
     "isDynamicEntry": true,
