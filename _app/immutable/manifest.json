@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-80502279.js",
+    "file": "start-9f690738.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -133,7 +133,7 @@
     ]
   },
   "src/routes/account/create/index.svelte": {
-    "file": "pages/account/create/index.svelte-af40eff3.js",
+    "file": "pages/account/create/index.svelte-f75bcc06.js",
     "src": "src/routes/account/create/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -150,7 +150,7 @@
     ]
   },
   "src/routes/account/index.svelte": {
-    "file": "pages/account/index.svelte-5d2e4364.js",
+    "file": "pages/account/index.svelte-6553062d.js",
     "src": "src/routes/account/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -166,7 +166,7 @@
     ]
   },
   "src/routes/account/login/index.svelte": {
-    "file": "pages/account/login/index.svelte-3fe43920.js",
+    "file": "pages/account/login/index.svelte-6e1a6dac.js",
     "src": "src/routes/account/login/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -182,7 +182,7 @@
     ]
   },
   "src/routes/account/messages/index.svelte": {
-    "file": "pages/account/messages/index.svelte-9b4ccb72.js",
+    "file": "pages/account/messages/index.svelte-495d9def.js",
     "src": "src/routes/account/messages/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -199,7 +199,7 @@
     ]
   },
   "src/routes/account/messages/response/index.svelte": {
-    "file": "pages/account/messages/response/index.svelte-a6644f32.js",
+    "file": "pages/account/messages/response/index.svelte-d96d9ba1.js",
     "src": "src/routes/account/messages/response/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -343,7 +343,7 @@
     ]
   },
   "src/routes/contact.svelte": {
-    "file": "pages/contact.svelte-61388df3.js",
+    "file": "pages/contact.svelte-231dcd3f.js",
     "src": "src/routes/contact.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -380,7 +380,7 @@
     ]
   },
   "src/routes/games/index.svelte": {
-    "file": "pages/games/index.svelte-9d99c900.js",
+    "file": "pages/games/index.svelte-604c9b9e.js",
     "src": "src/routes/games/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -389,7 +389,7 @@
       "_svgMapper-a46838ca.js"
     ],
     "css": [
-      "assets/pages/games/index.svelte-482dac3d.css"
+      "assets/pages/games/index.svelte-90e67531.css"
     ]
   },
   "src/routes/games/palooza.md": {
