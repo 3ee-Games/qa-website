@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-7442dd74.js",
+    "file": "start-98f35212.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -45,7 +45,7 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-53bb3562.js",
+    "file": "pages/__layout.svelte-f3fe908c.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -58,7 +58,7 @@
       "_index-3916e194.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-b058aac5.css"
+      "assets/pages/__layout.svelte-f898dad7.css"
     ],
     "assets": [
       "assets/fira-mono-cyrillic-ext-400-normal-3df7909e.woff2",
@@ -199,7 +199,7 @@
     ]
   },
   "src/routes/account/messages/response/index.svelte": {
-    "file": "pages/account/messages/response/index.svelte-5c388eaa.js",
+    "file": "pages/account/messages/response/index.svelte-300a05e3.js",
     "src": "src/routes/account/messages/response/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -343,7 +343,7 @@
     ]
   },
   "src/routes/contact.svelte": {
-    "file": "pages/contact.svelte-8d32b44f.js",
+    "file": "pages/contact.svelte-219d18c2.js",
     "src": "src/routes/contact.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -358,7 +358,7 @@
       "_index-3916e194.js"
     ],
     "css": [
-      "assets/pages/contact.svelte-770df80b.css"
+      "assets/pages/contact.svelte-9c37ad40.css"
     ]
   },
   "src/routes/games/cupids-balance.md": {
@@ -411,7 +411,7 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-43030aef.js",
+    "file": "pages/index.svelte-f776544b.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -424,7 +424,7 @@
       "_singletons-d1fb5791.js"
     ],
     "css": [
-      "assets/pages/index.svelte-81e0ddfe.css"
+      "assets/pages/index.svelte-6d3c60e3.css"
     ],
     "assets": [
       "assets/spaceship-mock-4a394462.svg"
