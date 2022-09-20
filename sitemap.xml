@@ -17,25 +17,25 @@
     <loc>https://joyanthem.com</loc>
   </url>
   <url>
-    <loc>https://joyanthem.com/games/cupids-balance</loc>
+    <loc>https://joyanthem.com/account/accessibility</loc>
   </url>
   <url>
-    <loc>https://joyanthem.com/games/flappy-jacob</loc>
+    <loc>https://joyanthem.com/account/conduct</loc>
   </url>
   <url>
-    <loc>https://joyanthem.com/games/palooza</loc>
+    <loc>https://joyanthem.com/account/create</loc>
   </url>
   <url>
-    <loc>https://joyanthem.com/games/zultiki</loc>
+    <loc>https://joyanthem.com/account/login</loc>
   </url>
   <url>
-    <loc>https://joyanthem.com/team/adora</loc>
+    <loc>https://joyanthem.com/account/messages</loc>
   </url>
   <url>
-    <loc>https://joyanthem.com/team/ddraw</loc>
+    <loc>https://joyanthem.com/account/privacy</loc>
   </url>
   <url>
-    <loc>https://joyanthem.com/team/ryan</loc>
+    <loc>https://joyanthem.com/account/terms</loc>
   </url>
   <url>
     <loc>https://joyanthem.com/blog/3ee-games-youtube-channel</loc>
@@ -59,25 +59,28 @@
     <loc>https://joyanthem.com/blog/tiled-level-editor-phaser</loc>
   </url>
   <url>
-    <loc>https://joyanthem.com/account/accessibility</loc>
+    <loc>https://joyanthem.com/games/cupids-balance</loc>
   </url>
   <url>
-    <loc>https://joyanthem.com/account/conduct</loc>
+    <loc>https://joyanthem.com/games/flappy-jacob</loc>
   </url>
   <url>
-    <loc>https://joyanthem.com/account/create</loc>
+    <loc>https://joyanthem.com/games/palooza</loc>
   </url>
   <url>
-    <loc>https://joyanthem.com/account/login</loc>
+    <loc>https://joyanthem.com/games/zultiki</loc>
   </url>
   <url>
-    <loc>https://joyanthem.com/account/messages</loc>
+    <loc>https://joyanthem.com/team/adora</loc>
   </url>
   <url>
-    <loc>https://joyanthem.com/account/privacy</loc>
+    <loc>https://joyanthem.com/team/ddraw</loc>
   </url>
   <url>
-    <loc>https://joyanthem.com/account/terms</loc>
+    <loc>https://joyanthem.com/team/ryan</loc>
+  </url>
+  <url>
+    <loc>https://joyanthem.com/account/messages/response</loc>
   </url>
   <url>
     <loc>https://joyanthem.com/blog/categories/advertisements</loc>
@@ -105,8 +108,5 @@
   </url>
   <url>
     <loc>https://joyanthem.com/blog/categories/videos</loc>
-  </url>
-  <url>
-    <loc>https://joyanthem.com/account/messages/response</loc>
   </url>
 </urlset>
