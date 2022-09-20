@@ -38,27 +38,6 @@
     <loc>https://joyanthem.com/team/ryan</loc>
   </url>
   <url>
-    <loc>https://joyanthem.com/account/accessibility</loc>
-  </url>
-  <url>
-    <loc>https://joyanthem.com/account/conduct</loc>
-  </url>
-  <url>
-    <loc>https://joyanthem.com/account/create</loc>
-  </url>
-  <url>
-    <loc>https://joyanthem.com/account/login</loc>
-  </url>
-  <url>
-    <loc>https://joyanthem.com/account/messages</loc>
-  </url>
-  <url>
-    <loc>https://joyanthem.com/account/privacy</loc>
-  </url>
-  <url>
-    <loc>https://joyanthem.com/account/terms</loc>
-  </url>
-  <url>
     <loc>https://joyanthem.com/blog/3ee-games-youtube-channel</loc>
   </url>
   <url>
@@ -80,7 +59,25 @@
     <loc>https://joyanthem.com/blog/tiled-level-editor-phaser</loc>
   </url>
   <url>
-    <loc>https://joyanthem.com/account/messages/response</loc>
+    <loc>https://joyanthem.com/account/accessibility</loc>
+  </url>
+  <url>
+    <loc>https://joyanthem.com/account/conduct</loc>
+  </url>
+  <url>
+    <loc>https://joyanthem.com/account/create</loc>
+  </url>
+  <url>
+    <loc>https://joyanthem.com/account/login</loc>
+  </url>
+  <url>
+    <loc>https://joyanthem.com/account/messages</loc>
+  </url>
+  <url>
+    <loc>https://joyanthem.com/account/privacy</loc>
+  </url>
+  <url>
+    <loc>https://joyanthem.com/account/terms</loc>
   </url>
   <url>
     <loc>https://joyanthem.com/blog/categories/advertisements</loc>
@@ -108,5 +105,8 @@
   </url>
   <url>
     <loc>https://joyanthem.com/blog/categories/videos</loc>
+  </url>
+  <url>
+    <loc>https://joyanthem.com/account/messages/response</loc>
   </url>
 </urlset>
