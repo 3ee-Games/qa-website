@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-5e6beec9.js",
+    "file": "start-65c9c76c.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -45,7 +45,7 @@
     ]
   },
   "src/routes/__layout.svelte": {
-    "file": "pages/__layout.svelte-67639dca.js",
+    "file": "pages/__layout.svelte-3ce9c215.js",
     "src": "src/routes/__layout.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -58,7 +58,7 @@
       "_index-3916e194.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-e1109e45.css"
+      "assets/pages/__layout.svelte-8660dd26.css"
     ],
     "assets": [
       "assets/fira-mono-cyrillic-ext-400-normal-3df7909e.woff2",
@@ -91,13 +91,13 @@
     ]
   },
   "src/routes/about.svelte": {
-    "file": "pages/about.svelte-d3c8d564.js",
+    "file": "pages/about.svelte-609e31b3.js",
     "src": "src/routes/about.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-8bf1f2ff.js",
-      "_svgMapper-b1acf438.js",
+      "_svgMapper-0220de32.js",
       "_paths-396f020f.js"
     ],
     "css": [
@@ -117,14 +117,14 @@
     ]
   },
   "src/routes/account/conduct.md": {
-    "file": "pages/account/conduct.md-70967195.js",
+    "file": "pages/account/conduct.md-a5ee9781.js",
     "src": "src/routes/account/conduct.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-8bf1f2ff.js",
       "__post-40f6f858.js",
-      "_svgMapper-b1acf438.js",
+      "_svgMapper-0220de32.js",
       "_menuContextStore-a51ccdae.js",
       "_index-3916e194.js"
     ],
@@ -199,13 +199,13 @@
     ]
   },
   "src/routes/account/messages/response/index.svelte": {
-    "file": "pages/account/messages/response/index.svelte-a5d7f416.js",
+    "file": "pages/account/messages/response/index.svelte-61178fa1.js",
     "src": "src/routes/account/messages/response/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-8bf1f2ff.js",
-      "_svgMapper-b1acf438.js",
+      "_svgMapper-0220de32.js",
       "_accountStore-e3d3bd24.js",
       "_messagingStore-68494039.js",
       "_navigation-0e6511d1.js",
@@ -241,14 +241,14 @@
     ]
   },
   "src/routes/blog/3ee-games-youtube-channel.md": {
-    "file": "pages/blog/3ee-games-youtube-channel.md-ae3a82bc.js",
+    "file": "pages/blog/3ee-games-youtube-channel.md-78b88d52.js",
     "src": "src/routes/blog/3ee-games-youtube-channel.md",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-8bf1f2ff.js",
       "__post-b0ef530c.js",
-      "_svgMapper-b1acf438.js"
+      "_svgMapper-0220de32.js"
     ],
     "css": [
       "assets/pages/blog/3ee-games-youtube-channel.md-ac1db683.css"
@@ -264,7 +264,7 @@
     ]
   },
   "src/routes/blog/flappy-jacob-prototype.md": {
-    "file": "pages/blog/flappy-jacob-prototype.md-617d781a.js",
+    "file": "pages/blog/flappy-jacob-prototype.md-7e101d63.js",
     "src": "src/routes/blog/flappy-jacob-prototype.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -274,7 +274,7 @@
     ]
   },
   "src/routes/blog/index.svelte": {
-    "file": "pages/blog/index.svelte-a5087ca9.js",
+    "file": "pages/blog/index.svelte-879bbb47.js",
     "src": "src/routes/blog/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -282,7 +282,7 @@
       "_index-8bf1f2ff.js",
       "_paths-396f020f.js",
       "_navigation-0e6511d1.js",
-      "_svgMapper-b1acf438.js",
+      "_svgMapper-0220de32.js",
       "_singletons-d1fb5791.js"
     ],
     "css": [
@@ -290,7 +290,7 @@
     ]
   },
   "src/routes/blog/no-ads-in-our-games.md": {
-    "file": "pages/blog/no-ads-in-our-games.md-f7d72362.js",
+    "file": "pages/blog/no-ads-in-our-games.md-78b08e0e.js",
     "src": "src/routes/blog/no-ads-in-our-games.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -300,7 +300,7 @@
     ]
   },
   "src/routes/blog/phaser-game-react-ui.md": {
-    "file": "pages/blog/phaser-game-react-ui.md-b70a64e8.js",
+    "file": "pages/blog/phaser-game-react-ui.md-09c18517.js",
     "src": "src/routes/blog/phaser-game-react-ui.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -310,7 +310,7 @@
     ]
   },
   "src/routes/blog/pong-kombat-2.md": {
-    "file": "pages/blog/pong-kombat-2.md-d60d45c1.js",
+    "file": "pages/blog/pong-kombat-2.md-66e6c096.js",
     "src": "src/routes/blog/pong-kombat-2.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -323,7 +323,7 @@
     ]
   },
   "src/routes/blog/shenanijam2018.md": {
-    "file": "pages/blog/shenanijam2018.md-2cf5357e.js",
+    "file": "pages/blog/shenanijam2018.md-2a486ba0.js",
     "src": "src/routes/blog/shenanijam2018.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -333,7 +333,7 @@
     ]
   },
   "src/routes/blog/tiled-level-editor-phaser.md": {
-    "file": "pages/blog/tiled-level-editor-phaser.md-2c6d8aba.js",
+    "file": "pages/blog/tiled-level-editor-phaser.md-c0768098.js",
     "src": "src/routes/blog/tiled-level-editor-phaser.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -362,7 +362,7 @@
     ]
   },
   "src/routes/games/cupids-balance.md": {
-    "file": "pages/games/cupids-balance.md-bf16871d.js",
+    "file": "pages/games/cupids-balance.md-e55e1c37.js",
     "src": "src/routes/games/cupids-balance.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -371,7 +371,7 @@
     ]
   },
   "src/routes/games/flappy-jacob.md": {
-    "file": "pages/games/flappy-jacob.md-d9f1ba9c.js",
+    "file": "pages/games/flappy-jacob.md-1ad493b5.js",
     "src": "src/routes/games/flappy-jacob.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -380,20 +380,19 @@
     ]
   },
   "src/routes/games/index.svelte": {
-    "file": "pages/games/index.svelte-eef61b10.js",
+    "file": "pages/games/index.svelte-7c21c470.js",
     "src": "src/routes/games/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-8bf1f2ff.js",
-      "_svgMapper-b1acf438.js"
+      "_index-8bf1f2ff.js"
     ],
     "css": [
-      "assets/pages/games/index.svelte-fef34feb.css"
+      "assets/pages/games/index.svelte-3f76b48b.css"
     ]
   },
   "src/routes/games/palooza.md": {
-    "file": "pages/games/palooza.md-c64189d0.js",
+    "file": "pages/games/palooza.md-556ebdc5.js",
     "src": "src/routes/games/palooza.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -402,7 +401,7 @@
     ]
   },
   "src/routes/games/zultiki.md": {
-    "file": "pages/games/zultiki.md-d4cd77b0.js",
+    "file": "pages/games/zultiki.md-c2302a4e.js",
     "src": "src/routes/games/zultiki.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -496,8 +495,8 @@
       "_index-3916e194.js"
     ]
   },
-  "_svgMapper-b1acf438.js": {
-    "file": "chunks/svgMapper-b1acf438.js",
+  "_svgMapper-0220de32.js": {
+    "file": "chunks/svgMapper-0220de32.js",
     "imports": [
       "_index-8bf1f2ff.js"
     ],

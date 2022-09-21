@@ -80,6 +80,9 @@
     <loc>https://joyanthem.com/team/ryan</loc>
   </url>
   <url>
+    <loc>https://joyanthem.com/account/messages/response</loc>
+  </url>
+  <url>
     <loc>https://joyanthem.com/blog/categories/advertisements</loc>
   </url>
   <url>
@@ -105,8 +108,5 @@
   </url>
   <url>
     <loc>https://joyanthem.com/blog/categories/videos</loc>
-  </url>
-  <url>
-    <loc>https://joyanthem.com/account/messages/response</loc>
   </url>
 </urlset>
