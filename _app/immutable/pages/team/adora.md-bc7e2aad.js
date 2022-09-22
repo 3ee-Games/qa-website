@@ -1,1 +1,0 @@
-import{S as e,i as t,s as o}from"../../chunks/index-8bf1f2ff.js";const l={name:"Adora",date:"2021-12-13",title:"Office Kat",svg:"Ocean",bio:"Adora, the office bangle!"};class i extends e{constructor(a){super(),t(this,a,null,null,o,{})}}export{i as default,l as metadata};
