@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-72ce6fa5.js",
+    "file": "start-74a22b37.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -381,7 +381,7 @@
     ]
   },
   "src/routes/games/index.svelte": {
-    "file": "pages/games/index.svelte-c5483065.js",
+    "file": "pages/games/index.svelte-c4b1d6d1.js",
     "src": "src/routes/games/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -389,7 +389,7 @@
       "_index-506650de.js"
     ],
     "css": [
-      "assets/pages/games/index.svelte-d6a37afe.css"
+      "assets/pages/games/index.svelte-43a97662.css"
     ]
   },
   "src/routes/games/palooza.md": {
