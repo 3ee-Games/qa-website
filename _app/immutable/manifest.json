@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-98049a0d.js",
+    "file": "start-5aac14fa.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -92,7 +92,7 @@
     ]
   },
   "src/routes/about.svelte": {
-    "file": "pages/about.svelte-91013bc3.js",
+    "file": "pages/about.svelte-d2a0398f.js",
     "src": "src/routes/about.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -102,7 +102,7 @@
       "_paths-396f020f.js"
     ],
     "css": [
-      "assets/pages/about.svelte-7a906b53.css"
+      "assets/pages/about.svelte-cf525765.css"
     ]
   },
   "src/routes/account/accessibility.md": {
@@ -440,7 +440,7 @@
     ]
   },
   "src/routes/team/adora.md": {
-    "file": "pages/team/adora.md-012415f3.js",
+    "file": "pages/team/adora.md-bd4a059c.js",
     "src": "src/routes/team/adora.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -449,7 +449,7 @@
     ]
   },
   "src/routes/team/ddraw.md": {
-    "file": "pages/team/ddraw.md-a4dda2c2.js",
+    "file": "pages/team/ddraw.md-6d4f2d67.js",
     "src": "src/routes/team/ddraw.md",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -458,7 +458,7 @@
     ]
   },
   "src/routes/team/ryan.md": {
-    "file": "pages/team/ryan.md-d51136e0.js",
+    "file": "pages/team/ryan.md-0b575df4.js",
     "src": "src/routes/team/ryan.md",
     "isEntry": true,
     "isDynamicEntry": true,
