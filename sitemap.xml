@@ -29,6 +29,9 @@
     <loc>https://joyanthem.com/account/login</loc>
   </url>
   <url>
+    <loc>https://joyanthem.com/account/logout</loc>
+  </url>
+  <url>
     <loc>https://joyanthem.com/account/messages</loc>
   </url>
   <url>
