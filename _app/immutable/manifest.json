@@ -1,6 +1,6 @@
 {
   ".svelte-kit/runtime/client/start.js": {
-    "file": "start-a2206164.js",
+    "file": "start-0b55269d.js",
     "src": ".svelte-kit/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -61,7 +61,7 @@
       "_index-c05afa88.js"
     ],
     "css": [
-      "assets/pages/__layout.svelte-4f83f6b8.css"
+      "assets/pages/__layout.svelte-ee653bd6.css"
     ],
     "assets": [
       "assets/fira-mono-cyrillic-ext-400-normal-3df7909e.woff2",
@@ -135,7 +135,7 @@
     ]
   },
   "src/routes/account/create/index.svelte": {
-    "file": "pages/account/create/index.svelte-97c43918.js",
+    "file": "pages/account/create/index.svelte-3c26e704.js",
     "src": "src/routes/account/create/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -148,7 +148,7 @@
       "_singletons-d1fb5791.js"
     ],
     "css": [
-      "assets/pages/account/create/index.svelte-bee1d00d.css"
+      "assets/pages/account/create/index.svelte-3fbdf7e6.css"
     ]
   },
   "src/routes/account/index.svelte": {
@@ -165,7 +165,7 @@
     ]
   },
   "src/routes/account/login/index.svelte": {
-    "file": "pages/account/login/index.svelte-035cf213.js",
+    "file": "pages/account/login/index.svelte-1fefa974.js",
     "src": "src/routes/account/login/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -178,11 +178,11 @@
       "_singletons-d1fb5791.js"
     ],
     "css": [
-      "assets/pages/account/login/index.svelte-eae4cf95.css"
+      "assets/pages/account/login/index.svelte-1119ca14.css"
     ]
   },
   "src/routes/account/logout/index.svelte": {
-    "file": "pages/account/logout/index.svelte-d3ebab9f.js",
+    "file": "pages/account/logout/index.svelte-c41b5a51.js",
     "src": "src/routes/account/logout/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -195,11 +195,11 @@
       "_singletons-d1fb5791.js"
     ],
     "css": [
-      "assets/pages/account/logout/index.svelte-00d62bf4.css"
+      "assets/pages/account/logout/index.svelte-66881dc6.css"
     ]
   },
   "src/routes/account/messages/index.svelte": {
-    "file": "pages/account/messages/index.svelte-eb46b68b.js",
+    "file": "pages/account/messages/index.svelte-e5514f78.js",
     "src": "src/routes/account/messages/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -234,14 +234,14 @@
     ]
   },
   "src/routes/account/new/index.svelte": {
-    "file": "pages/account/new/index.svelte-29ef91e9.js",
+    "file": "pages/account/new/index.svelte-f92bcfaa.js",
     "src": "src/routes/account/new/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_index-299456bd.js",
       "_env-859c48a7.js",
-      "_StarField-e02612f0.js",
+      "_StarField-b4274562.js",
       "_accountStore-af10db85.js",
       "_navigation-0e6511d1.js",
       "_MediaQuery-56179968.js",
@@ -249,7 +249,7 @@
       "_singletons-d1fb5791.js"
     ],
     "css": [
-      "assets/pages/account/new/index.svelte-6d7a3b3b.css"
+      "assets/pages/account/new/index.svelte-b2ad1a9f.css"
     ]
   },
   "src/routes/account/privacy.md": {
@@ -393,7 +393,7 @@
     ]
   },
   "src/routes/contact.svelte": {
-    "file": "pages/contact.svelte-00573a9a.js",
+    "file": "pages/contact.svelte-78bb37e4.js",
     "src": "src/routes/contact.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -408,7 +408,7 @@
       "_index-c05afa88.js"
     ],
     "css": [
-      "assets/pages/contact.svelte-2af74e87.css"
+      "assets/pages/contact.svelte-7ab07306.css"
     ]
   },
   "src/routes/games/cupids-balance.md": {
@@ -469,7 +469,7 @@
     ]
   },
   "src/routes/index.svelte": {
-    "file": "pages/index.svelte-5f33c214.js",
+    "file": "pages/index.svelte-cc569eae.js",
     "src": "src/routes/index.svelte",
     "isEntry": true,
     "isDynamicEntry": true,
@@ -478,12 +478,12 @@
       "_navigation-0e6511d1.js",
       "_index-c05afa88.js",
       "_accountStore-af10db85.js",
-      "_StarField-e02612f0.js",
+      "_StarField-b4274562.js",
       "_MediaQuery-56179968.js",
       "_singletons-d1fb5791.js"
     ],
     "css": [
-      "assets/pages/index.svelte-fbcdb363.css"
+      "assets/pages/index.svelte-3ec6cfbe.css"
     ]
   },
   "src/routes/team/adora.md": {
@@ -589,15 +589,15 @@
       "_index-c05afa88.js"
     ]
   },
-  "_StarField-e02612f0.js": {
-    "file": "chunks/StarField-e02612f0.js",
+  "_StarField-b4274562.js": {
+    "file": "chunks/StarField-b4274562.js",
     "imports": [
       "_index-299456bd.js",
       "_MediaQuery-56179968.js",
       "_accountStore-af10db85.js"
     ],
     "css": [
-      "assets/StarField-7c20939b.css"
+      "assets/StarField-5456257e.css"
     ],
     "assets": [
       "assets/spaceship-mock-4a394462.svg"
